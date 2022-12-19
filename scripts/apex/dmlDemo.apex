@@ -1,3 +1,12 @@
 DmlDemo.dmlInsertDemo_stndObj();
 DmlDemo.dmlInserDemo_cstmObj();
 DmlDemo.dmlUpdateDemo_1();
+DmlDemo.insertDemo();
+DmlDemo.customdeneme();
+DmlDemo.dmlUpdateDemo_1();
+//list<account> delacc=[select id from account where name like '%B.0%'];
+delete [select id from account where createddate = THIS_WEEK];
+DmlDemo.dmlUpdateDemo_2();
+DmlDemo.dmlUpdateDemo_3();
+DmlDemo.dmlInsertMultiple_right();
+DmlDemo.dmlInsertMultiple_right2();
